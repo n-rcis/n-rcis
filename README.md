@@ -1,4 +1,5 @@
-currently learning c# and python
+comp sci student
+learning c, fluent in c# and python
 
 <!---
 n-rcis/n-rcis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
